@@ -3,7 +3,7 @@ import google.generativeai as genai
 from PIL import Image
 import matplotlib.pyplot  as plt 
 
-api_key = "AIzaSyD9Tj4yxSUTFYRZaFtPnqCaiWUgMW3m4J4"
+api_key = "AIzaSyC_L3-d181ibSultwSEuGm6P4XwE8HIsEQ"
 genai.configure(api_key=api_key)
 
 # st.title ("Application")
